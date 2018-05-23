@@ -24,7 +24,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         this.mViewHolder.btnCalcular.setOnClickListener(this);
 
+        this.clearTexts();
+    }
 
+    private void clearTexts() {
+        this.mViewHolder.textQtdLatas.setText("");
+        this.mViewHolder.textQtdGaloes.setText("");
+        this.mViewHolder.textValor.setText("");
     }
 
     @Override
