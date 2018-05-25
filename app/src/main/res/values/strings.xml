@@ -3,4 +3,5 @@
     <string name="rea_pintada">Área a ser pintada em m²</string>
     <string name="calcular">Calcular</string>
     <string name="quantidade_latas">Quantidade Latas:</string>
+    <string name="melhor_combinacao">Melhor Combinação</string>
 </resources>
